@@ -1,0 +1,9 @@
+# Test for Even Numbers
+GET http://localhost:5000/numbers/e
+Content-Type: application/json
+
+###
+
+# Test for Odd Numbers
+GET http://localhost:5000/numbers/o
+Content-Type: application/json
